@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[11],{150:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"universal-react","name":"universal-react","count":1,"permalink":"/blog/tags/universal-react"}')}}]);
